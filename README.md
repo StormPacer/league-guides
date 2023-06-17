@@ -8,4 +8,6 @@ You may use all of the commands of League Guides as long as you and the server y
 
 # Privacy Policy
 
-League Guides stores Discord user IDs, League of Legends usernames and League of Legends servers (eg. EUW). You can always delete all of that information from the database simply by doing /unlink.
+League Guides stores Discord user IDs, League of Legends usernames and League of Legends servers (eg. EUW). You can always delete all of that information from the database simply by doing `/unlink` and `/delete-data` for minigames.
+
+**THE BOT DOESN'T STORE ANY MESSAGES**
